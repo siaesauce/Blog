@@ -1,0 +1,14 @@
+/*
+*   Style: monokailight
+*   https://xyproto.github.io/splash/docs/monokailight.html
+*/
+
+$color: #f8f8f2;
+$background-color: #282c34;
+$error-color: #960050;
+$keyword-color: #00a8c8;
+$text-color: $color;
+$name-color: #75af00;
+$literal-color: #d88200;
+
+@import "common.scss";
