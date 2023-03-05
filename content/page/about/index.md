@@ -8,6 +8,7 @@ menu:
         weight: -90
         params:
             icon: user
+toc: false
 ---
 
 ### 关于我
