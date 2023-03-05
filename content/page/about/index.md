@@ -18,7 +18,7 @@ menu:
 
 📸 社交媒体：
 - ***Github：[@siaesauce](https://github.com/siaesauce)***<br>
-- ***Twitter：[@siaesauce](https://twitter.com/siaesaucee)***<br>
+- ***Twitter：[@siaesauce](https://twitter.com/siaesauce)***<br>
 - ***Bilibili：[吴节操操操](https://space.bilibili.com/11738804)***<br>
 - ***Steam：[S!AE.SAUCE](https://steamcommunity.com/id/siaesauce)***
 
